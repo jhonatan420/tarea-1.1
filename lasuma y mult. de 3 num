@@ -1,0 +1,9 @@
+Algoritmo definr_la_suma_y_multiplicacion_de_3_numeros
+	definir n1, n2, n3, r como Real
+	Escribir "escribir 3 numeros diferentes"
+	Leer n1, n2, n3
+	s = n1 + n2 + n3
+	m = n1 * n2 * n3
+	Escribir "escribir la suma de los 3 numeros es ",s
+	Escribir "escribir la multiplicacion de los 3 numeros es ",m
+FinAlgoritmo
